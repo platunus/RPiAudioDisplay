@@ -1,1 +1,1 @@
-# Music player display for ATMage328P (Arduino Uno)
+# Music player display for ATMege328P (Arduino Uno)
