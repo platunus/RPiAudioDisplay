@@ -4,7 +4,7 @@
 ```mermaid
 graph TD
     a[Raspberry Pi] -->|I2C| b[ATMega328P]
-    b -->|LCD+| c[Graphical OLED Display (100x16): Controller WS0010]
+    b -->|LCD+| c[Graphical OLED Display <100x16>: Controller WS0010]
     b -->|SPI| d[FlashRom >32Mbit]
     b -->|-| e[InfraRed LED]
     click c https://strawberry-linux.com/catalog/items?code=27343
