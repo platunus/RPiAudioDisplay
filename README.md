@@ -1,4 +1,5 @@
 # Music player display for ATMege328P (Arduino Uno)
+This is a I2C based Japanese character display with InfraRed output to control Onkyo A-933 amplifier.
 
 ## Chart
 ```mermaid
@@ -11,7 +12,7 @@ graph TD
     click c "https://strawberry-linux.com/catalog/items?code=27343" _blank
 ```
 
-## Pin Assign　(ATMega328P)
+## Pin Assign　(ATMega328P PDIP28)
 
 | pin # | name | function | 
 | --- | --- | --- |
